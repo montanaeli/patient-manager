@@ -4,16 +4,13 @@ This React Native application, developed using Expo, demonstrates a patient mana
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 30%; margin: 0 10px;"> 
-  <img src="./assets/images/Home.png" alt="Home Screen" width="200" style="width: 100%; display: block;">
+  <img src="./assets/images/Home.png" alt="Home Screen" width="250px" style="margin-bottom: 20px;">
   </div>
   <div style="width: 30%; margin: 0 10px;">
-    <!-- <img src="assets/captura2.png" alt="Captura 2" style="width: 100%; display: block;"> -->
-    <img src="./assets/images/AddNew.png" alt="Add New" style="width: 100%; display: block;">
-
+    <img src="./assets/images/AddNew.png" alt="Add New"  width="250px" style="margin-bottom: 20px;">
   </div>
   <div style="width: 30%; margin: 0 10px;">
-    <!-- <img src="assets/captura3.png" alt="Captura 3" style="width: 100%; display: block;"> -->
-    <img src="./assets/images/Edit.png" alt="Edit" style="width: 100%; display: block;">
+    <img src="./assets/images/Edit.png" alt="Edit"  width="250px">
   </div>
 </div>
 
